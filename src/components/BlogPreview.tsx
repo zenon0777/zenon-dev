@@ -38,7 +38,7 @@ const blogPosts = [
     category: "Business Growth",
     readTime: "4 min read",
     author: "Zenon Dev",
-    url: `${MEDIUM_PROFILE}/the-real-cost-of-not-having-an-online-presence`,
+    url: `${MEDIUM_PROFILE}/the-real-cost-of-not-having-an-online-presence-912225944e34`,
     image: "/images/blog/business.jpg",
   },
 ];
